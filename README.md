@@ -17,7 +17,7 @@ The Reinforcement Learning Communication Framework (RLCF) is designed to facilit
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
     ```
-    git clone https://github.com/your_username/RL_Communication_Framework.git
+    git clone https://github.com/cast-moonlight/RL_Communication_Framework.git
     ```
 
 2. **Install Dependencies**: Ensure you have Python installed on your machine. Additionally, install required dependencies using pip:
